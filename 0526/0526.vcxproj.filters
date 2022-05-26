@@ -21,5 +21,8 @@
     <ClCompile Include="02_10진수를 2진수로 표현하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03_수식표기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
